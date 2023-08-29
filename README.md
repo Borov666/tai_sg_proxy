@@ -18,6 +18,6 @@ If you want to use it remotely, you can use any tunneling service e.g. ngrok or 
 
 Notes:
 
-* Only tested with the model claude-2, cloude-1.3 older ones might work if their API allows to, maybe not.
+* Only tested with models claude-2 and cloude-1.3, older ones might work if their API allows to, maybe not.
 * At the moment the stop sequence doesn't work
 
