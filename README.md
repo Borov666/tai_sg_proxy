@@ -1,7 +1,7 @@
 # TavernAI SourceGraph proxy
 
 It's fork of sg_proxy script
-
+Works with https://github.com/TavernAI/TavernAI
 Requirements: Node, NPM.
 
 1. Create a SourceGraph account (no phone required, just normal email/password).
