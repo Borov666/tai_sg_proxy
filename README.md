@@ -1,6 +1,6 @@
 # TavernAI SourceGraph proxy
 
-It's fork of sg_proxy proxy script
+It's fork of sg_proxy script
 
 Requirements: Node, NPM.
 
