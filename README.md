@@ -8,8 +8,8 @@ Requirements: Node, NPM.
 2. Go to https://sourcegraph.com/, click on your profile icon in upper-right, then Settings, then go to Account->Access tokens, and generate a new token.
 3. Clone/download https://github.com/Borov666/tai_sg_proxy, open a console in that directory.
 4. Open .env in the proxy folder and put your token there, so it looks like API_TOKEN="your token here"
-5. Run npm install to install dependencies.
-6. Start the proxy - node main.js.
+5. Run `npm install` to install dependencies.
+6. Start the proxy - `node main.js`
 7. Select Reverse Proxy api in TavernAI's right menu and set the proxy URL as http://127.0.0.1:3000 without pass.
 
 Enjoy.
